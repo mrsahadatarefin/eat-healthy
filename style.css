@@ -32,8 +32,10 @@ p{
     text-decoration: none;
     color:black;
     margin-top: 30px;
+    padding: 10px 15px;
     
 }
+
 .dream-big{
     background-image: url(images/shapes/Frame\ 57.jpg);
     background-repeat: no-repeat;
@@ -59,7 +61,7 @@ p{
     
     align-items: center;
     padding-left: 10%;
-    padding-right: 10%;
+    padding-right: 15%;
   
     
 }
@@ -116,4 +118,12 @@ font-weight: 70px;
     padding-top: 20px;
     padding-bottom: 20px;
    }
+   .footer,p{
+    color: darkcyan;
+   }
+   a:hover{background-color: aquamarine;
+    border: 2px solid black;
+    box-shadow:10px 10px 40px rgb(105, 104, 104);
+    color: aliceblue;
 
+   }
